@@ -1,6 +1,3 @@
-Hi! My name is Kseniya Spiridonova
-====================================
-
 web developer
 -------------
 
